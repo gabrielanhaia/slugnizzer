@@ -20,7 +20,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "slugnizzer": "src/slugnizzer"
+      "slugnizzer": "src/slugnizzer/"
     }
   }
 }

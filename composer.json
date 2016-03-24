@@ -1,0 +1,26 @@
+{
+  "name": "slugnizzer/slugnizzer",
+  "description": "Slugnizzer is a package to generate slugs from sentences. There is the option to generate slugs only according to the database columns.",
+  "keywords": [
+    "slugnizzer",
+    "slug"
+  ],
+  "license": "MIT",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Gabriel Anhaia",
+      "email": "anhaia.gabriel@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">5.4",
+    "illuminate/database": "~5.0"
+  },
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "slugnizzer": "src/slugnizzer"
+    }
+  }
+}

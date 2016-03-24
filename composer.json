@@ -1,5 +1,5 @@
 {
-  "name": "slugnizzer/slugnizzer",
+  "name": "gabrielanhaia/slugnizzer",
   "description": "Slugnizzer is a package to generate slugs from sentences. There is the option to generate slugs only according to the database columns.",
   "keywords": [
     "slugnizzer",

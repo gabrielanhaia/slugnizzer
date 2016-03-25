@@ -17,8 +17,6 @@
     "php": ">5.4",
     "illuminate/database": "~5.0"
   },
-  "minimum-stability": "dev",
-  "prefer-stable" : true,
   "autoload": {
     "psr-4": {
       "slugnizzer\\": "src/"
